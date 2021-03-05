@@ -1,0 +1,12 @@
+.tabla, td, tr{
+    border: 0.5px solid rgb(0, 252, 21);
+    text-align:center;
+    width: 50%
+}
+.blue{
+    background: blue;
+
+}
+.red{
+    background: red;
+}
